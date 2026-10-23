@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T00:35:33.182520266Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-23T10:04:49.357309122Z",
     "templateType": "trip_f",
     "propertyId": "d0ca46d0-e8f8-4c0c-86f6-5833c10408e3",
     "homepageId": "8223439c-78ad-4d64-bfb0-c7540b76683a"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.",
-    "usageGuide": "[공지사항]\n※ 예약 인원 초과 시 사전 연락 요망\n※ 반려동물 입실 불가 펜션에 동반 시 입실 거부 및 환불 불가\n※ 시설물 훼손,분실 시 투숙객 배상 책임\n※ 객실 내 직화 조리 및 개인 취사도구 반입 금지\n※ 객실 내 흡연 금지, 지정 장소 이용\n※ 무분별한 오락,음주,고성방가 금지\n※ 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n영유아 인원 포함 여부 : 영유아 인원수에 미포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 1~4인까지 30,000원/ 인원 추가시 1인당 5천원 추가(1박기준/현장결제)\n- 신청 시간: ~22:00\n- 이용 시간: ~22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 객실: 201,202호,203호\n- 바베큐 형태: 전기그릴\n- 이용 요금: 15,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 운영 기간: 7월 1일 ~ 8월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 21:00\n- 이용 복장: 래쉬가드\n- 수영장 크기: 9m x 3m x 1m\n※ 어린이는 반드시 보호자 동반 시 이용 가능\n※ 음주 후 입장 불가, 대형튜브 사용 자제\n\n[부대시설]\n- 펜션 앞 방파제에서 낚시 가능\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- OTT 이용 가능\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 매점: 9~22시, 판매 품목: 컵라면, 과자, 음료\n\n- 스카이타워 차량 41분\n- 아쿠아플라넷 차량 44분\n- 오동도 차량 44분\n- 돌산공원 차량 44분\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용 시]\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 전라남도 여수시 화정면 백야리 499\n- 도로명 주소 : 전라남도 여수시 화정면 화백해안길 163\n\n[대중교통 이용 시]\n- KTX 여천역 여천역삼거리 666번,666-1번 버스 승차 - 시청정문(롯데하이마트앞) 하차 - 시청 정문(롯데하이마트앞) 28번 버스 승차 - 신기 하차 - 여수 와요펜션 도착",
+    "usageGuide": "※ 예약 인원 초과 시 사전 연락 요망\n※ 반려동물 입실 불가 펜션에 동반 시 입실 거부 및 환불 불가\n※ 시설물 훼손,분실 시 투숙객 배상 책임\n※ 객실 내 직화 조리 및 개인 취사도구 반입 금지\n※ 객실 내 흡연 금지, 지정 장소 이용\n※ 무분별한 오락,음주,고성방가 금지\n※ 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n영유아 인원 포함 여부 : 영유아 인원수에 미포함\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 1~4인까지 30,000원/ 인원 추가시 1인당 5천원 추가(1박기준/현장결제)\n- 신청 시간: ~22:00\n- 이용 시간: ~22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[개별바베큐]\n- 이용 객실: 201,202호,203호\n- 바베큐 형태: 전기그릴\n- 이용 요금: 15,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[공용수영장]\n- 운영 기간: 7월 1일 ~ 8월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 21:00\n- 이용 복장: 래쉬가드\n- 수영장 크기: 9m x 3m x 1m\n※ 어린이는 반드시 보호자 동반 시 이용 가능\n※ 음주 후 입장 불가, 대형튜브 사용 자제\n\n[부대시설]\n- 펜션 앞 방파제에서 낚시 가능\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- OTT 이용 가능\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 매점: 9~22시, 판매 품목: 컵라면, 과자, 음료\n\n- 스카이타워 차량 41분\n- 아쿠아플라넷 차량 44분\n- 오동도 차량 44분\n- 돌산공원 차량 44분\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용 시]\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 전라남도 여수시 화정면 백야리 499\n- 도로명 주소 : 전라남도 여수시 화정면 화백해안길 163\n\n[대중교통 이용 시]\n- KTX 여천역 여천역삼거리 666번,666-1번 버스 승차 - 시청정문(롯데하이마트앞) 하차 - 시청 정문(롯데하이마트앞) 28번 버스 승차 - 신기 하차 - 여수 와요펜션 도착",
     "reservationGuide": "※ 예약 인원 초과 시 사전 연락 요망\n※ 반려동물 입실 불가 펜션에 동반 시 입실 거부 및 환불 불가\n※ 시설물 훼손,분실 시 투숙객 배상 책임\n※ 객실 내 직화 조리 및 개인 취사도구 반입 금지\n※ 객실 내 흡연 금지, 지정 장소 이용\n※ 무분별한 오락,음주,고성방가 금지\n※ 다음 이용 고객을 위해 입실, 퇴실 시간을 준수해 주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -74,11 +74,52 @@
     },
     "facilities": [
       {
+        "id": "01a16836-267d-7d2f-9a6b-6811dd38b607",
+        "name": "오션뷰",
+        "description": "전 객실 오션뷰로\n객실 안에서 아름다운 여수바다를 즐기실 수 있습니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a16836-3c3a-79b5-a235-1833370facdb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16836-267d-7d2f-9a6b-6811dd38b607/main/1792749745220-yp22vm6n3h.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16836-3c4d-7aa5-94d6-a6809fe4f616",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16836-267d-7d2f-9a6b-6811dd38b607/main/1792749745256-gq19acfl22.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16836-3cbd-76de-9340-9b00fe556fe6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16836-267d-7d2f-9a6b-6811dd38b607/main/1792749745185-5213yrwt9t.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16836-3ca2-71e8-8b2d-c2351e168167",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16836-267d-7d2f-9a6b-6811dd38b607/main/1792749745253-purksifkeo.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "96952961-8002-4ab5-aed1-f664906c8299",
         "name": "공용수영장",
         "description": "",
         "usageGuide": "- 운영 기간: 7월 1일 ~ 8월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 21:00\n- 이용 복장: 래쉬가드\n- 수영장 크기: 9m x 3m x 1m\n※ 어린이는 반드시 보호자 동반 시 이용 가능\n※ 음주 후 입장 불가, 대형튜브 사용 자제",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "images": [
           {
             "id": "b4237d09-dce1-4491-997d-96f4561b1daf",
@@ -119,7 +160,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 201,202호,203호\n- 바베큐 형태: 전기그릴\n- 이용 요금: 15,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "728dee9d-93f5-4e93-82d3-4cfef5d16abd",
@@ -160,7 +201,7 @@
         "name": "공용바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 1~4인까지 30,000원/ 인원 추가시 1인당 5천원 추가(1박기준/현장결제)\n- 신청 시간: ~22:00\n- 이용 시간: ~22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "9b6ebfb3-1f4b-48fa-b7da-d5199813e2db",
@@ -193,7 +234,7 @@
         "name": "부대시설",
         "description": "",
         "usageGuide": "- 펜션 앞 방파제에서 낚시 가능",
-        "displayOrder": 3,
+        "displayOrder": 4,
         "images": [
           {
             "id": "06230d70-ed4f-41b8-af01-0c0735d354d8",
@@ -226,7 +267,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 엘레베이터 미보유\n- OTT 이용 가능\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 매점: 9~22시, 판매 품목: 컵라면, 과자, 음료\n\n- 스카이타워 차량 41분\n- 아쿠아플라넷 차량 44분\n- 오동도 차량 44분\n- 돌산공원 차량 44분",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "07c7c4b3-0042-4313-a296-a059b8b7c75f",
@@ -346,7 +387,7 @@
           {
             "id": "7c35744a-068e-4f6e-bac6-bd702ffd5492",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/dA4wV2Q8eOq0.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -356,7 +397,7 @@
           {
             "id": "d2f12d65-37d8-4fb1-8d9c-7f7312b2cedd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/LhwVTbKOit4I.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -364,7 +405,7 @@
           {
             "id": "d609a1c7-839f-4c1f-b8ed-bc7bfc4443ee",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/gVHwmBUFs1qx.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -372,7 +413,7 @@
           {
             "id": "8ee9f1b7-6364-4da9-807d-0c49aefe9976",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/mQ8eWuoTgZIX.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -380,7 +421,7 @@
           {
             "id": "97c63efa-7092-4392-832a-b976da7dd31d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/8kzRZQ2iPFrs.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -388,7 +429,7 @@
           {
             "id": "ba072e6c-b3fd-4090-b5b6-d5f163e1f3f0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/mDACXeI1x9PY.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -396,7 +437,7 @@
           {
             "id": "405b62fb-34ac-42aa-af89-6861e28a3ac6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/X8gvusrLNTOy.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -404,7 +445,7 @@
           {
             "id": "af246781-d85f-428e-a73d-b905a15e7ea2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/fRKtDE5CZ0q6.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -412,7 +453,7 @@
           {
             "id": "62070b68-f1be-40a1-ad8d-2d3b150bb613",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/24/X96VflCT0Y5e.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1922,6 +1963,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -2697,7 +2741,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
